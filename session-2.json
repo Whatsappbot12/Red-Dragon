@@ -42,7 +42,7 @@
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
-    "account": 
+    "account": {
       "details": "CLCQp+AEEL3JtpYGGAI=",
       "accountSignatureKey": "1rTQ61qANANziM1dzF9bUwvyhIWQSXU+FEqnjAdhf0E=",
       "accountSignature": "MtHfkwxbzMxwvys8QauatynnNmJJ8QON7QzkYXw3zrG+kNtfmMEKZdR06ahEIqa3SNc1/C9Jjo2zek6RhYklBA==",
