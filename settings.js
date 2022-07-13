@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is BOT HASHA🔥
 My Creator is Hashan prebhoth😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94771337628'] //Owner number in aive msg
-global.premium = ['+94771337628'] //Owner Number info
-global.ownernomer = '+94771337628' //Owner Number <<<
+global.owner = ['+94715985737'] //Owner number in aive msg
+global.premium = ['+94715985737'] //Owner Number info
+global.ownernomer = '+94715985737' //Owner Number <<<
 
 global.ownername = '😎B.Hashan' //Owner Name
 global.botname = ' ☬BOT༒HASHA࿐' //Bot Name
@@ -40,7 +40,7 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_Hashan.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
